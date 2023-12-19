@@ -160,7 +160,7 @@ for (let i = 2; i < process.argv.length; i++) {
         case '-u':
         case '--baseUrl': {
             if (process.argv.length <= i + 1) {
-                console.error('After --output please give output path');
+                console.error('After --baseUrl please give output path');
                 printHelp();
                 process.exit(3);
             }
