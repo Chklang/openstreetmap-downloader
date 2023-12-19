@@ -1,6 +1,7 @@
 # HOW TO INSTALL
 1. Clone repo
-2. Use "npm start -- [options]" (help = npm start -- -h)
+2. "pnpm i"
+3. Use "npm start -- [options]" (help = npm start -- -h)
 
 # LICENSE
 
